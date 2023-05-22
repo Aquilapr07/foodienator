@@ -9,7 +9,7 @@
             <img src="<?php echo base_url().'public/front/img/logo.jpeg';?>" alt="FriesBrgrImg">
             <div class="carousel-caption text-left">
             <h3 class="display-2">Melia Cakes</h3>
-                <h3>kami di sini untuk melayani Anda</h3>
+                <h3>Siap Memberikan Pelayanan terbaik!!!</h3>
                 <a href="<?php echo base_url().'restaurant/index'?>" class="btn btn-outline-light btn-lg">order sekarang</a>
                 <a href="<?php echo base_url().'restaurant/index'?>" class="btn btn-primary btn-lg">View Menu</a>
                 
@@ -19,7 +19,7 @@
             <img src="<?php echo base_url().'public/front/img/lg2.jpg';?>" alt="Spaghetti">
             <div class="carousel-caption text-right">
                 <h1 class="display-2">Anda Suka Kue?</h1>
-                <h3>kami di sini untuk melayani Anda baik online dan ofline</h3>
+                <h3>kami di sini Siap memberikan pelyanan baik online maupun ofline</h3>
                 <a href="<?php echo base_url().'restaurant/index'?>" class="btn btn-outline-light btn-lg">order sekarang</a>
                 <a href="<?php echo base_url().'restaurant/index'?>" class="btn btn-primary btn-lg">View Menu</a>
             </div>
@@ -111,12 +111,9 @@
             <h2>Terhubung Dengan Kami</h2>
         </div>
         <div class="col-12 social padding">
-            <a href=""><i class="fab fa-facebook"></i></a>
-            <a href=""><i class="fab fa-twitter"></i></a>
-            <a href=""><i class="fab fa-google-plus-g"></i></a>
-            <a href=""><i class="fab fa-instagram"></i></a>
-            <a href=""><i class="fab fa-youtube"></i></a>
-        </div>
+  <a href="https://www.facebook.com/wentym"><i class="fab fa-facebook"></i></a>
+  <a href="https://instagram.com/meliacakescianjur?igshid=MzRlODBiNWFlZA=="><i class="fab fa-instagram"></i></a>
+</div>   
     </div>
 </div>
 <hr class="my-4">
