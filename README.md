@@ -8,5 +8,5 @@
 *152021069 AQUILA PUTRA RIYANTO  
 
 SourceCode disini berisikan seputar Web CRUD Jual Beli Berbagai macam jenis Kueh seperti puding 
-cupcake, kueh ulang tahun, kueh kering & basah
+cupcake, kueh ulang tahun, kueh kering & basah semua tersedia di Melia Cakes
 
